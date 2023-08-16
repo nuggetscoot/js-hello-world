@@ -1,10 +1,12 @@
-/*  
-Welcome, new coder. 
-Enter your code on line 7 to print 'Hello, World!' 
-to the console (the panel on the right)
-*/
 
-console.log("Hello");
+
+
+
+
+
+console.log("Hello World");
+console.log("My name is Poppy");
+console.log("I am very excited for this course! :)");
 
 /*  
 Next, PLAY! 
